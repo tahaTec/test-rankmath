@@ -1,0 +1,16 @@
+{
+    "name": "mac/rankmath-test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mac\\RankmathTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taha El Mahdaoui",
+            "email": "taha.elmahdaoui@devkit-sio.net"
+        }
+    ],
+    "require": {}
+}
